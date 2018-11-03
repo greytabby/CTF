@@ -1,0 +1,1 @@
+john the ripperでshadowファイルを解析する

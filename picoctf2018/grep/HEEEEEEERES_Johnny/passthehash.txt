@@ -1,0 +1,9 @@
+HEEEEEEERE'S_Johnny munchkin $ john --wordlist=rockyou.txt  johnpasswd 
+Loaded 1 password hash (crypt, generic crypt(3) [?/64])
+Press 'q' or Ctrl-C to abort, almost any other key for status
+0g 0:00:00:03 0% 0g/s 394.9p/s 394.9c/s 394.9C/s dragons..phoebe
+0g 0:00:00:05 0% 0g/s 396.0p/s 396.0c/s 396.0C/s harris..morado
+thematrix        (root)
+1g 0:00:00:27 100% 0.03603g/s 397.8p/s 397.8c/s 397.8C/s jemjem..davida
+Use the "--show" option to display all of the cracked passwords reliably
+Session completed

@@ -1,0 +1,1 @@
+grep picoCTF{ file

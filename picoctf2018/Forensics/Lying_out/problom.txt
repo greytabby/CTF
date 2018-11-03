@@ -1,0 +1,25 @@
+You'll need to consult the file `traffic.png` to answer the following questions.
+
+
+Which of these logs have significantly higher traffic than is usual for their time of day? You can see usual traffic on the attached plot. There may be multiple logs with higher than usual traffic, so answer all of them! Give your answer as a list of `log_ID` values separated by spaces. For example, if you want to answer that logs 2 and 7 are the ones with higher than usual traffic, type 2 7.
+    log_ID      time  num_IPs
+0        0  03:15:00    11635
+1        1  04:45:00    11627
+2        2  05:30:00     9797
+3        3  10:15:00    10140
+4        4  12:45:00    14713
+5        5  14:00:00    10208
+6        6  16:15:00     9991
+7        7  17:00:00    10563
+8        8  18:45:00    13038
+9        9  21:45:00    10090
+10      10  22:30:00    11618
+11      11  22:45:00     9749
+12      12  23:30:00    10042
+13      13  23:45:00    10449
+0 1 4 10
+Correct!
+
+
+Great job. You've earned the flag: picoCTF{w4y_0ut_940df760}
+

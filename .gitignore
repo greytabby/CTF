@@ -1,0 +1,10 @@
+# Ignore all
+*
+
+# Unignore all with extensions
+!*.*
+!*/
+
+# ignore
+peda-session*.txt
+.gdb_history
