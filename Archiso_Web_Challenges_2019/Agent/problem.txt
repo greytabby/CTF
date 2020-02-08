@@ -1,0 +1,5 @@
+Agent
+200
+我々の道具であり、手先である。
+
+URL: https://awebc19.archiso.dev/problems/agent/

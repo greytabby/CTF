@@ -1,0 +1,6 @@
+Rel
+100
+link要素を用いることでスタイルシートをリンクすることができます。
+
+URL: https://awebc19.archiso.dev/problems/rel/
+

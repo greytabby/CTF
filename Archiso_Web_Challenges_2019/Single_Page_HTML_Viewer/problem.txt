@@ -1,0 +1,8 @@
+Single Page HTML Viewer 2
+419
+HTMLファイルの中身を見ることができるシングルページアプリケーションを改良しました！
+今度は外部サーバのページも表示できますよ！
+当然脆弱性はありません！当たり前です！
+※フラグは/flagファイル内に書いてあります
+
+URL: https://awebc19.archiso.dev/problems/single_page_html_viewer_2/

@@ -1,0 +1,6 @@
+Go Mikuji
+500
+Go言語でおみくじを作りました！
+是非来年の運勢を占ってみてください！
+
+URL: https://awebc19.archiso.dev/problems/go_mikuji/index.html

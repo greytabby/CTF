@@ -1,0 +1,19 @@
+version: '3'
+
+services:
+  web:
+    image: nginx:alpine
+    ports:
+      - "20000:80"
+    volumes:
+      - "./web/conf.d/default.conf:/etc/nginx/conf.d/default.conf"
+    depends_on:
+      - app
+
+  app:
+    image: golang:alpine
+    command: go run main.go
+    ports:
+      - "8080"
+    volumes:
+      - "./app:/go"

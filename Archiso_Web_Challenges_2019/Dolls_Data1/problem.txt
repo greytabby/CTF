@@ -1,0 +1,6 @@
+Dolls Data 1
+400
+ドールズフロントラインの戦術人形のデータベースを作りました！
+是非利用してみてください！
+
+URL: https://awebc19.archiso.dev/problems/dolls_data_1/

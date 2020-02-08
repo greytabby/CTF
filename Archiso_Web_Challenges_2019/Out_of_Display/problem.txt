@@ -1,0 +1,5 @@
+Out of Display
+100
+ディスプレイ上にフラグはないよ!
+
+URL: https://awebc19.archiso.dev/problems/out_of_display/

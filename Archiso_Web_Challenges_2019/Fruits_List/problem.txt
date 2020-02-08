@@ -1,0 +1,6 @@
+Fruits List
+300
+季節ごとのフルーツの一覧が見られます！
+※フラグはルートフォルダ(/)直下にあります
+
+URL: https://awebc19.archiso.dev/problems/fruits_list/
