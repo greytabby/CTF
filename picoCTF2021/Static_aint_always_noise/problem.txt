@@ -1,0 +1,14 @@
+Static ain't always noise
+ | 20 points
+Tags: 
+AUTHOR: SYREAL
+
+Description
+Can you look at the data in this binary: static? This BASH script might help!
+
+debug info: [u:76822 e: p: c:163 i:873]
+
+Hints
+(None)
+
+4,138 solves / 4,739 attempts (87%)
