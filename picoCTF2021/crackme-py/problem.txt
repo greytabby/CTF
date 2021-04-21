@@ -1,0 +1,8 @@
+crackme-py
+ | 30 points
+Tags: 
+AUTHOR: SYREAL
+
+Description
+crackme.py
+
