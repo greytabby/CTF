@@ -1,0 +1,8 @@
+Scavenger Hunt
+ | 50 points
+Tags: 
+AUTHOR: MADSTACKS
+
+Description
+There is some interesting information hidden around this site http://mercury.picoctf.net:44070/. Can you find it?
+
