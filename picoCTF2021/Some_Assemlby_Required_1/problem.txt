@@ -1,0 +1,8 @@
+Some Assembly Required 1
+ | 70 points
+Tags: 
+AUTHOR: SEARS SCHULZ
+
+Description
+http://mercury.picoctf.net:55336/index.html
+
