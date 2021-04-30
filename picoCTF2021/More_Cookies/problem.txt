@@ -1,0 +1,8 @@
+More Cookies
+ | 90 points
+Tags: 
+AUTHOR: MADSTACKS
+
+Description
+I forgot Cookies can Be modified Client-side, so now I decided to encrypt them! http://mercury.picoctf.net:10868/
+
