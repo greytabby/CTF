@@ -1,0 +1,7 @@
+dont-use-client-side
+ | 100 points
+Tags: 
+AUTHOR: ALEX FULTON/DANNY
+
+Description
+Can you break into this super secure portal? https://jupiter.challenges.picoctf.org/problem/37821/ (link) or http://jupiter.challenges.picoctf.org:37821

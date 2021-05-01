@@ -8,3 +8,5 @@
 # ignore
 peda-session*.txt
 .gdb_history
+.DS_Store
+*.out

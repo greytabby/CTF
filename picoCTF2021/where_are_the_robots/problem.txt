@@ -1,0 +1,7 @@
+where are the robots
+ | 100 points
+Tags: 
+AUTHOR: ZARATEC/DANNY
+
+Description
+Can you find the robots? https://jupiter.challenges.picoctf.org/problem/36474/ (link) or http://jupiter.challenges.picoctf.org:36474
