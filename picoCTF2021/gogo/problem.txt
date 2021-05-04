@@ -1,0 +1,7 @@
+gogo
+ | 110 points
+Tags: 
+AUTHOR: THELSHELL
+
+Description
+Hmmm this is a weird file... enter_password. There is a instance of the service running at mercury.picoctf.net:35862.
