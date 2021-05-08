@@ -1,0 +1,7 @@
+Super Serial
+ | 130 points
+Tags: 
+AUTHOR: MADSTACKS
+
+Description
+Try to recover the flag stored on this website http://mercury.picoctf.net:5428/
