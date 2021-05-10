@@ -1,0 +1,7 @@
+Let's get dynamic
+ | 150 points
+Tags: 
+AUTHOR: RYAN RAMSEYER
+
+Description
+Can you tell what this file is reading? chall.S
