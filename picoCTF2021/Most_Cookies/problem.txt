@@ -1,0 +1,7 @@
+Most Cookies
+ | 150 points
+Tags: 
+AUTHOR: MADSTACKS
+
+Description
+Alright, enough of using my own encryption. Flask session cookies should be plenty secure! server.py http://mercury.picoctf.net:65344/
