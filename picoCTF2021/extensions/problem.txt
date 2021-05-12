@@ -1,0 +1,8 @@
+extensions
+ | 150 points
+Tags: 
+AUTHOR: SANJAY C/DANNY
+
+Description
+This is a really weird text file TXT? Can you find the flag?
+
