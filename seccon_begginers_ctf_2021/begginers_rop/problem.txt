@@ -1,0 +1,11 @@
+beginners_rop
+
+Do you like programming?
+
+Did you know Return Oriented Programming?
+
+nc beginners-rop.quals.beginners.seccon.jp 4102
+
+beginners_rop.tar.gz de065e6f6fd8dfd632aa763b8b20bf5dc8ec8ea0
+
+想定難易度: Easy

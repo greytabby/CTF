@@ -1,0 +1,8 @@
+only_read
+
+バイナリ読めなきゃやばいなり〜
+
+chall 271938a479a59fe40438b9ecf0e2fca002fe085b
+
+想定難易度: Beginner
+

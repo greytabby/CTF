@@ -1,0 +1,8 @@
+rewriter
+任意のアドレスの値を書き換えたい時，ありますよね?
+
+nc rewriter.quals.beginners.seccon.jp 4103
+
+rewriter.tar.gz 90a2468835aee4d08cd90c8fb22eec466fdd1517
+
+想定難易度: Beginner
